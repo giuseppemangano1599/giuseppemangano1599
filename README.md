@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there, I'm Giuseppe Mangano👋
+
+Master's Degree student in Digital Humanities | Aspiring Developer | Tech Enthusiast
+
+🔹 Passionate about Python, SQL, JavaScript, HTML & CSS
+🔹 Exploring web development, data science, and backend engineering
+🔹 Building cool projects, University assignments and sharing them here!
+
+# README in progress... 🛠️
 
 <!--
 **giuseppemangano1599/giuseppemangano1599** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
