@@ -3,7 +3,9 @@
 Master's Degree student in Digital Humanities | Aspiring Developer | Tech Enthusiast
 
 🔹 Passionate about Python, SQL, JavaScript, HTML & CSS
+
 🔹 Exploring web development, data science, and backend engineering
+
 🔹 Building cool projects, University assignments and sharing them here!
 
 # README in progress... 🛠️
