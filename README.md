@@ -8,23 +8,26 @@ Master's Degree student in Digital Humanities | Aspiring Developer | Tech Enthus
 
 🔹 Building cool projects, University assignments and sharing them here
 
-# 🚀 Skills & Tech Stack
+
+# 🚀 Skills
 
 🔹Languages: Python, SQL, JavaScript, HTML, CSS, RDF, SPARQL, [learning] PHP
+
 🔹Frameworks & Tools: Protégé
+
 🔹Databases: [learning] MySQL
+
 🔹Version Control: Git, GitHub
+
 
 # 📚 Learning
 
-🔹Currently diving deeper into relational databases and web development.
+🔹I'm currently diving deeper into relational databases and web development.
 
-# 📬 Contacts
+
+# 📫 How to reach me
 
 💼 [LinkedIn](www.linkedin.com/in/giuseppe-mangano-692951241) 
-
-🙌 Always happy to collaborate and learn together!
-# README in progress... 🛠️
 
 <!--
 **giuseppemangano1599/giuseppemangano1599** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
