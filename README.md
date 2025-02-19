@@ -29,7 +29,7 @@ Master's Degree student in Digital Humanities | Aspiring Developer | Tech Enthus
 
 📧 [Email](mailto:giuseppe.mangano1599@gmail.com)
 
-💼 [LinkedIn](www.linkedin.com/in/giuseppe-mangano-692951241) 
+💼 [LinkedIn](https://www.linkedin.com/in/giuseppe-mangano-692951241) 
 <!--
 **giuseppemangano1599/giuseppemangano1599** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
