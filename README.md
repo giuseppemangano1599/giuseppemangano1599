@@ -1,4 +1,4 @@
-## Hi there, I'm Giuseppe Mangano👋
+# Hi there, I'm Giuseppe Mangano👋
 
 Master's Degree student in Digital Humanities | Aspiring Developer | Tech Enthusiast
 
@@ -9,7 +9,7 @@ Master's Degree student in Digital Humanities | Aspiring Developer | Tech Enthus
 🔹 Building cool projects, University assignments and sharing them here
 
 
-# 🚀 Skills
+## 🚀 Skills
 
 🔹Languages: Python, SQL, JavaScript, HTML, CSS, RDF, SPARQL, [learning] PHP
 
@@ -20,12 +20,12 @@ Master's Degree student in Digital Humanities | Aspiring Developer | Tech Enthus
 🔹Version Control: Git, GitHub
 
 
-# 📚 Learning
+## 📚 Learning
 
 🔹I'm currently diving deeper into relational databases and web development.
 
 
-# 📫 How to reach me
+## 📫 How to reach me
 
 💼 [LinkedIn](www.linkedin.com/in/giuseppe-mangano-692951241) 
 
