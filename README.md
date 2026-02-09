@@ -11,11 +11,11 @@ Master's Degree student in Digital Humanities | Aspiring Developer | Tech Enthus
 
 ## 🚀 Skills
 
-🔹Languages: Python, SQL, JavaScript, HTML, CSS, RDF, SPARQL, [learning] PHP
+🔹Languages: Python, SQL, JavaScript, HTML, CSS, RDF, SPARQL, PHP
 
-🔹Frameworks & Tools: Protégé
+🔹Frameworks & Tools: Docker
 
-🔹Databases: [learning] MySQL
+🔹Databases: MariaDB, MySQL
 
 🔹Version Control: Git, GitHub
 
