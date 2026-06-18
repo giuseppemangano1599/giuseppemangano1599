@@ -8,9 +8,8 @@ My current interests focus on data analysis, data mining, relational databases a
 
 * Data Analysis & Data Mining
 * Relational Databases and SQL
-* Web Development
 * NLP and Digital Humanities
-
+* Web Development
 ## Technologies
 
 **Languages**
